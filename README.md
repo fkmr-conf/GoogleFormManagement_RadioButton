@@ -1,0 +1,2 @@
+# GoogleFormManagement_RadioButton
+GoogleFormのラジオボタンの質問について、定員や残席を管理するスクリプトです
